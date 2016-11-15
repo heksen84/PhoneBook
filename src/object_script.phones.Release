@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\form_auth.o
+./release\option.o
+./release\dialog_abb_info.o
+./release\dialog_add_ab.o
+./release\qrc_res.o
+./release\moc_mainwindow.o
+./release\moc_form_auth.o
+./release\moc_option.o
+./release\moc_dialog_abb_info.o
+./release\moc_dialog_add_ab.o
+);

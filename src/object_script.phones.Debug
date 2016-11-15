@@ -1,0 +1,14 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\form_auth.o
+./debug\option.o
+./debug\dialog_abb_info.o
+./debug\dialog_add_ab.o
+./debug\qrc_res.o
+./debug\moc_mainwindow.o
+./debug\moc_form_auth.o
+./debug\moc_option.o
+./debug\moc_dialog_abb_info.o
+./debug\moc_dialog_add_ab.o
+);

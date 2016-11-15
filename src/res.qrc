@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>add1-_1068.ico</file>
+        <file>delete_3527.ico</file>
+        <file>edit_7301.ico</file>
+        <file>exit_6491.ico</file>
+        <file>gtk-zoom-100_1887.ico</file>
+        <file>computer_8501.ico</file>
+        <file>info_4678.ico</file>
+        <file>linphone_4754.ico</file>
+        <file>login.ico</file>
+    </qresource>
+</RCC>
